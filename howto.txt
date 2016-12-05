@@ -1,0 +1,3 @@
+## How to login MySQL using Terminal (Ubuntu)
+   > cd /usr/local/ampps/mysql/bin
+   > ./mysql -u root -pmysql
